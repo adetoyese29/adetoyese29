@@ -13,7 +13,7 @@ I'm a data analyst based in Ibadan, Nigeria, passionate about uncovering insight
 
 ---
 
-###  portfolio Projects
+###  Portfolio Projects
 
 Here are some of the projects I've worked on. You can find more details in each repository.
 
