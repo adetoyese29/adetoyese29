@@ -1,6 +1,6 @@
 # Hi there, I'm Kenny 👋
 
-I'm a data analyst based in Ibadan, Nigeria, passionate about uncovering insights from data and telling compelling stories through visualizations.
+I'm a data analyst passionate about uncovering insights from data and telling compelling stories through visualizations.
 
 ---
 
