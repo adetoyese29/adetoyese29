@@ -17,15 +17,15 @@ I'm a data analyst passionate about uncovering insights from data and telling co
 
 Here are some of the projects I've worked on. You can find more details in each repository.
 
-**1. 📈 MA_general_hospital_analysis**
+**1. 📈 Online_retail_sql_analysis**
+   * **Description:** This project involves using POSTGRESQL to create a database, clean and analyze an online retail store dataset 
+   * **Tools Used:** POSTGRESQL, Excel
+   * **View Project Repository: https://github.com/adetoyese29/Online_retail_sql_analysis.git
+
+**2. 📈 MA_general_hospital_analysis**
    * **Description:** This project involves analyzing an hospital dataset to uncover trends.
    * **Tools Used:** SQL, Excel, PowerBI
    * **View Project Repository: https://github.com/adetoyese29/MA_general_hospital_analysis.git**
-
-**2. Super_store_orders_analysis**
-   * **Description:** This project involves analyzing the dataset of asuperstore using Excel.
-   * **Tools Used:** Excel
-   * **View Project Repository: https://github.com/adetoyese29/super_store_orders_analysis.git**
 
 **3. Himalayan_expeditions_analysis**
    * **Description:** This project explores the rich history of the Nepalese Himalaya mountaineering expeditions. For over seven decades.
