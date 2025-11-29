@@ -17,25 +17,20 @@ I'm a data analyst passionate about uncovering insights from data and telling co
 
 Here are some of the projects I've worked on. You can find more details in each repository.
 
-**1. 📈 Online_retail_sql_analysis**
-   * **Description:** This project involves using POSTGRESQL to create a database, clean and analyze an online retail store dataset 
-   * **Tools Used:** POSTGRESQL, Excel
-   * **View Project Repository: https://github.com/adetoyese29/Online_retail_sql_analysis.git
+**1. Bank Customer Retention & Churn Analysis**
+   * **Description:** This project analyzes the behavior of 10,000 bank customers to identify the root causes of customer churn.
+   * **Tools Used:** POSTGRESQL, Excel, PowerBI
+   * **View Project Repository: https://github.com/adetoyese29/Bank-Customer-Retention-Churn-Analysis.git
 
-**2. 📈 MA_general_hospital_analysis**
-   * **Description:** This project involves analyzing an hospital dataset to uncover trends.
-   * **Tools Used:** SQL, Excel, PowerBI
-   * **View Project Repository: https://github.com/adetoyese29/MA_general_hospital_analysis.git**
+**2. E-Commerce Funnel & Category Performance Analysis**
+   * **Description:** This project analyzes 5 months of clickstream data from a cosmetics e-commerce store to map the customer journey, identify funnel "leaks," and optimize revenue.
+   * **Tools Used:** POSTGRESQL, Excel, PowerBI
+   * **View Project Repository: https://github.com/adetoyese29/E-Commerce-Funnel-Analysis-Cosmetics-.git**
 
-**3. Himalayan_expeditions_analysis**
-   * **Description:** This project explores the rich history of the Nepalese Himalaya mountaineering expeditions. For over seven decades.
-   * **Tools Used:** Excel, PowerBI
-   * **View Project Repository https://github.com/adetoyese29/Himalayan_expeditions_analysis.git**
-
-**4. neflix_analysis**
-   * **Description:** This project involves exploratory and analytical SQL queries on a dataset containing information about Netflix's global content library. The goal is to uncover trends, patterns, and insights into Netflix’s content offerings using structured query language (SQL)..
-   * **Tools Used:** SQL, Excel, PostgreSQL
-   * **View Project Repository: https://github.com/adetoyese29/neflix_analysis.git**
+**3. Youtube_trending_videos_python_analysis**
+   * **Description:** This project focuses on data cleaning, transformation, and exploratory data analysis (EDA) to uncover trends and insights from the "Trending YouTube Video Statistics" data gotten from kaggle. 
+   * **Tools Used:** Excel, PowerBI,POSTGRESQL
+   * **View Project Repository https://github.com/adetoyese29/Youtube_trending_videos_python_analysis.git**
 ---
 
 ### 📫 How to Reach Me
