@@ -35,5 +35,5 @@ Here are some of the projects I've worked on. You can find more details in each 
 
 ### 📫 How to Reach Me
 
-* **LinkedIn:** https://www.linkedin.com/in/kehinde-adelowo-696827367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-* **Email:** toyeseadelowo@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/kehinde-adelowo-992415393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* **Email:** adelowokehinde438@gmail.com
