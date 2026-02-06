@@ -20,7 +20,7 @@ Here are some of the projects I've worked on. You can find more details in each 
 **1. Bank Customer Retention & Churn Analysis**
    * **Description:** This project analyzes the behavior of 10,000 bank customers to identify the root causes of customer churn.
    * **Tools Used:** POSTGRESQL, Excel, PowerBI
-   * **View Project Repository: https://github.com/adetoyese29/Bank-Customer-Retention-Churn-Analysis.git
+   * View Project Repository: https://github.com/adetoyese29/Bank-Customer-Retention-Churn-Analysis.git
 
 **2. E-Commerce Funnel & Category Performance Analysis**
    * **Description:** This project analyzes 5 months of clickstream data from a cosmetics e-commerce store to map the customer journey, identify funnel "leaks," and optimize revenue.
